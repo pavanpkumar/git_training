@@ -1,1 +1,2 @@
 Hi! I'm Bob. updating the copy.
+new line in Bob from others in remote.
